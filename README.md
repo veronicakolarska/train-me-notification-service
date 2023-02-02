@@ -1,1 +1,1 @@
-# -train-me-notification-service
+# Train Me Notification Service
